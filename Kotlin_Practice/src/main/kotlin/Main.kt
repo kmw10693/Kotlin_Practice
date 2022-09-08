@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-    println(calc("-2 * -3 + 0.4 / - 0.2"))
+    println(calc2("-2 * (-3 + 0.4) / - 0.2"))
 }
